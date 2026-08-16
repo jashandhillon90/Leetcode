@@ -21,7 +21,8 @@ public:
 
     //     }
     //  return ans;  
-    unordered_set<int> s(nums1.begin(),nums1.end());
+    unordered_set<int> s(nums1.begin(),nums1.end());//set has property that store only unique ele not duplicates case1
+    // case1 nums1 in set only 1,2 not 1221;
     for(int x:nums2){
         if(s.count(x)){
             ans.push_back(x);
