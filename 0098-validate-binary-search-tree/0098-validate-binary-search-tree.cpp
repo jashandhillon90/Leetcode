@@ -11,26 +11,27 @@
  */
 class Solution {
 public:
-//    bool check(TreeNode* root,long long low,long long high){
-//     if(root==NULL) return true;
-//     if(low>=root->val||high<=root->val) return false;
-//     return (check(root->left,low,root->val)&&
-//              check(root->right,root->val,high)
-//     );
-//    }
-//     bool isValidBST(TreeNode* root) {
-//   return check(root, LLONG_MIN, LLONG_MAX);
-      
-//     }
-TreeNode* prev = NULL;
+   bool check(TreeNode* root,TreeNode* low,TreeNode* high){
+    if(root==NULL) return true;
+    if(low!=NULL&&low->val>=root->val) return false;
+    if(high!=NULL&&high->val<=root->val) return false;
+    return (check(root->left,low,root)&&
+             check(root->right,root,high)
+    );
+   }
     bool isValidBST(TreeNode* root) {
-        if (root == NULL)
-            return true;
-        if (!isValidBST(root->left))
-            return false;
-        if (prev != NULL && root->val <= prev->val)
-            return false;
-        prev = root;
-        return isValidBST(root->right);
+  return check(root,NULL,NULL);
+      
     }
+// TreeNode* prev = NULL;
+//     bool isValidBST(TreeNode* root) {
+//         if (root == NULL)
+//             return true;
+//         if (!isValidBST(root->left))
+//             return false;
+//         if (prev != NULL && root->val <= prev->val)
+//             return false;
+//         prev = root;
+//         return isValidBST(root->right);
+//     }
 };
