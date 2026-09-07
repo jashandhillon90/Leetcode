@@ -70,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0040-combination-sum-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
