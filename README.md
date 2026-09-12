@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/jashandhillon90/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/jashandhillon90/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/jashandhillon90/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jashandhillon90/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0242-valid-anagram](https://github.com/jashandhillon90/Leetcode/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/jashandhillon90/Leetcode/tree/master/0292-nim-game) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/jashandhillon90/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
