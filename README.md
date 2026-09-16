@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/jashandhillon90/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/jashandhillon90/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/jashandhillon90/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/jashandhillon90/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/jashandhillon90/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/jashandhillon90/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## String Matching
 |  |
 | ------- |
