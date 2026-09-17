@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/jashandhillon90/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/jashandhillon90/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/jashandhillon90/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Stack
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/jashandhillon90/Leetcode/tree/master/0292-nim-game) |
+| [0357-count-numbers-with-unique-digits](https://github.com/jashandhillon90/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Brainteaser
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/jashandhillon90/Leetcode/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/jashandhillon90/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
