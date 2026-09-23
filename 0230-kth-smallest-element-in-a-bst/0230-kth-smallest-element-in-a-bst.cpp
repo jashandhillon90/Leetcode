@@ -1,27 +1,20 @@
 class Solution {
 public:
+// sort order bcoz inorder 
+int prevorder=0;
     int kthSmallest(TreeNode* root, int k) {
-        stack<TreeNode*> st;
-        TreeNode* curr = root;
-
-        while (curr != NULL || !st.empty()) {
-            // Go to the leftmost node
-            while (curr != NULL) {
-                st.push(curr);
-                curr = curr->left;
-            }
-
-            // Process node
-            curr = st.top();
-            st.pop();
-
-            k--;
-
-            if (k == 0)
-                return curr->val;
-
-            // Move to right subtree
-            curr = curr->right;
+        if(root==NULL) return -1;
+        if(root->left){
+            int leftans=kthSmallest(root->left,k);
+            if(leftans!=-1) return leftans;
+        }
+        if(prevorder+1==k){
+            return root->val;
+        }
+        prevorder=prevorder+1;
+        if(root->right){
+            int rightans=kthSmallest(root->right,k);
+            if(rightans!=-1) return rightans;
         }
 
         return -1;
