@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/jashandhillon90/Leetcode/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Simulation
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jashandhillon90/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/jashandhillon90/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
