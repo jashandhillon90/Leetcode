@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/jashandhillon90/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/jashandhillon90/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/jashandhillon90/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0572-subtree-of-another-tree) |
