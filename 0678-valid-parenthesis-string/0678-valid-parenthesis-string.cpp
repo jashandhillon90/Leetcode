@@ -14,6 +14,6 @@ public:
             if(high<0) return false;
             low=max(low,0);//low can't be neagtive
         }
-        return low==0;
+        return low==0;//TC=O(n),SC=O(1)
     }
 };
