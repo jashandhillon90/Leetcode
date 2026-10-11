@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/jashandhillon90/Leetcode/tree/master/0292-nim-game) |
+| [0343-integer-break](https://github.com/jashandhillon90/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jashandhillon90/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0633-sum-of-square-numbers](https://github.com/jashandhillon90/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [3870-count-commas-in-range](https://github.com/jashandhillon90/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/jashandhillon90/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jashandhillon90/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0343-integer-break](https://github.com/jashandhillon90/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jashandhillon90/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0678-valid-parenthesis-string](https://github.com/jashandhillon90/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
