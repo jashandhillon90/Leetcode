@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jashandhillon90/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jashandhillon90/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jashandhillon90/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jashandhillon90/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Backtracking
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jashandhillon90/Leetcode/tree/master/0242-valid-anagram) |
 | [0508-most-frequent-subtree-sum](https://github.com/jashandhillon90/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jashandhillon90/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jashandhillon90/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/jashandhillon90/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/jashandhillon90/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jashandhillon90/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jashandhillon90/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jashandhillon90/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jashandhillon90/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jashandhillon90/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
