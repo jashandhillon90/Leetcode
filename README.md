@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/jashandhillon90/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/jashandhillon90/Leetcode/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jashandhillon90/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jashandhillon90/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jashandhillon90/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/jashandhillon90/Leetcode/tree/master/0048-rotate-image) |
 ## Algorithm X
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jashandhillon90/Leetcode/tree/master/0048-rotate-image) |
 | [0292-nim-game](https://github.com/jashandhillon90/Leetcode/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/jashandhillon90/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jashandhillon90/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
