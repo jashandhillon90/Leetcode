@@ -16,7 +16,7 @@ public:
       dummy.next=head;
       ListNode *prev=&dummy;
       //ab prev ko just left ki pichli value tak lekr jayege
-      for(int i=1;i<left;i++){
+      for(int i=1;i<left;i++){//bcoz ek dummy bhi create kiya h isliye
         prev=prev->next;
       }
       //ab reverse krege sublist ko
