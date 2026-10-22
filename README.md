@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/jashandhillon90/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0100-same-tree) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/jashandhillon90/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0100-same-tree) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jashandhillon90/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0096-unique-binary-search-trees](https://github.com/jashandhillon90/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jashandhillon90/Leetcode/tree/master/0048-rotate-image) |
+| [0096-unique-binary-search-trees](https://github.com/jashandhillon90/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0292-nim-game](https://github.com/jashandhillon90/Leetcode/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/jashandhillon90/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jashandhillon90/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/jashandhillon90/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jashandhillon90/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0096-unique-binary-search-trees](https://github.com/jashandhillon90/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0343-integer-break](https://github.com/jashandhillon90/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jashandhillon90/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0678-valid-parenthesis-string](https://github.com/jashandhillon90/Leetcode/tree/master/0678-valid-parenthesis-string) |
