@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jashandhillon90/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/jashandhillon90/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/jashandhillon90/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jashandhillon90/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/jashandhillon90/Leetcode/tree/master/0061-rotate-list) |
 | [0633-sum-of-square-numbers](https://github.com/jashandhillon90/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jashandhillon90/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
