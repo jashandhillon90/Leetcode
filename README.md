@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jashandhillon90/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/jashandhillon90/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jashandhillon90/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/jashandhillon90/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/jashandhillon90/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/jashandhillon90/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/jashandhillon90/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Cartesian Tree
 |  |
 | ------- |
