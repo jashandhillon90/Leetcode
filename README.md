@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jashandhillon90/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/jashandhillon90/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/jashandhillon90/Leetcode/tree/master/0190-reverse-bits) |
 | [0654-maximum-binary-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jashandhillon90/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/jashandhillon90/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/jashandhillon90/Leetcode/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jashandhillon90/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jashandhillon90/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jashandhillon90/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0148-sort-list](https://github.com/jashandhillon90/Leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Simulation
 |  |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jashandhillon90/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/jashandhillon90/Leetcode/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/jashandhillon90/Leetcode/tree/master/0148-sort-list) |
 | [0633-sum-of-square-numbers](https://github.com/jashandhillon90/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jashandhillon90/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jashandhillon90/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/jashandhillon90/Leetcode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
