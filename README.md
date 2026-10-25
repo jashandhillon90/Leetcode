@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/jashandhillon90/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jashandhillon90/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jashandhillon90/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/jashandhillon90/Leetcode/tree/master/0242-valid-anagram) |
 | [0508-most-frequent-subtree-sum](https://github.com/jashandhillon90/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jashandhillon90/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jashandhillon90/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/jashandhillon90/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jashandhillon90/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jashandhillon90/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Simulation
 |  |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/jashandhillon90/Leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/jashandhillon90/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jashandhillon90/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jashandhillon90/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0633-sum-of-square-numbers](https://github.com/jashandhillon90/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jashandhillon90/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
