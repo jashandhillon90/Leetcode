@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jashandhillon90/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jashandhillon90/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/jashandhillon90/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jashandhillon90/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jashandhillon90/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/jashandhillon90/Leetcode/tree/master/0173-binary-search-tree-iterator) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jashandhillon90/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0143-reorder-list](https://github.com/jashandhillon90/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jashandhillon90/Leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Simulation
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/jashandhillon90/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/jashandhillon90/Leetcode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/jashandhillon90/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jashandhillon90/Leetcode/tree/master/0148-sort-list) |
 | [0633-sum-of-square-numbers](https://github.com/jashandhillon90/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jashandhillon90/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/jashandhillon90/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jashandhillon90/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/jashandhillon90/Leetcode/tree/master/0143-reorder-list) |
 ## Cartesian Tree
 |  |
 | ------- |
