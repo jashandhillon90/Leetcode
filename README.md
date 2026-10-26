@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/jashandhillon90/Leetcode/tree/master/0162-find-peak-element) |
 | [0654-maximum-binary-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0817-linked-list-components](https://github.com/jashandhillon90/Leetcode/tree/master/0817-linked-list-components) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jashandhillon90/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/jashandhillon90/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jashandhillon90/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jashandhillon90/Leetcode/tree/master/0242-valid-anagram) |
 | [0508-most-frequent-subtree-sum](https://github.com/jashandhillon90/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jashandhillon90/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0817-linked-list-components](https://github.com/jashandhillon90/Leetcode/tree/master/0817-linked-list-components) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jashandhillon90/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jashandhillon90/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/jashandhillon90/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/jashandhillon90/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0817-linked-list-components](https://github.com/jashandhillon90/Leetcode/tree/master/0817-linked-list-components) |
 ## Simulation
 |  |
 | ------- |
