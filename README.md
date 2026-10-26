@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/jashandhillon90/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/jashandhillon90/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jashandhillon90/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0445-add-two-numbers-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0654-maximum-binary-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/jashandhillon90/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/jashandhillon90/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/jashandhillon90/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jashandhillon90/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0382-linked-list-random-node](https://github.com/jashandhillon90/Leetcode/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/jashandhillon90/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/jashandhillon90/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jashandhillon90/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/jashandhillon90/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/jashandhillon90/Leetcode/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Simulation
 |  |
 | ------- |
