@@ -17,7 +17,7 @@ public:
         dummy->next=head;
         ListNode* curr=dummy;
         while (curr->next!=NULL) {
-            if (st.count(curr->next->val)){//check krenge ki value present h ki nhi
+            if (st.count(curr->next->val)){//check krenge ki value present h ki nhi agar hui toh skip krdenge
                 curr->next=curr->next->next;
             }else{
                 curr=curr->next;
