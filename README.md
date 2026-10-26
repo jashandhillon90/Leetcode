@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/jashandhillon90/Leetcode/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/jashandhillon90/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jashandhillon90/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0382-linked-list-random-node](https://github.com/jashandhillon90/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0633-sum-of-square-numbers](https://github.com/jashandhillon90/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/jashandhillon90/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jashandhillon90/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/jashandhillon90/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jashandhillon90/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/jashandhillon90/Leetcode/tree/master/0382-linked-list-random-node) |
 ## Simulation
 |  |
 | ------- |
@@ -548,4 +550,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jashandhillon90/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/jashandhillon90/Leetcode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/jashandhillon90/Leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
