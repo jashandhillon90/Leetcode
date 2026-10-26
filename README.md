@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/jashandhillon90/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1254-number-of-closed-islands](https://github.com/jashandhillon90/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jashandhillon90/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/jashandhillon90/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-number-of-closed-islands](https://github.com/jashandhillon90/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jashandhillon90/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String Matching
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jashandhillon90/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/jashandhillon90/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jashandhillon90/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jashandhillon90/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jashandhillon90/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jashandhillon90/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/jashandhillon90/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jashandhillon90/Leetcode/tree/master/0048-rotate-image) |
 | [1254-number-of-closed-islands](https://github.com/jashandhillon90/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jashandhillon90/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jashandhillon90/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Algorithm X
 |  |
 | ------- |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/jashandhillon90/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jashandhillon90/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jashandhillon90/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
