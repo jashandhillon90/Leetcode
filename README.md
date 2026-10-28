@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jashandhillon90/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/jashandhillon90/Leetcode/tree/master/0162-find-peak-element) |
+| [0622-design-circular-queue](https://github.com/jashandhillon90/Leetcode/tree/master/0622-design-circular-queue) |
 | [0654-maximum-binary-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0706-design-hashmap](https://github.com/jashandhillon90/Leetcode/tree/master/0706-design-hashmap) |
 | [0817-linked-list-components](https://github.com/jashandhillon90/Leetcode/tree/master/0817-linked-list-components) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/jashandhillon90/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/jashandhillon90/Leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/jashandhillon90/Leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/jashandhillon90/Leetcode/tree/master/0817-linked-list-components) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/jashandhillon90/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/jashandhillon90/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jashandhillon90/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/jashandhillon90/Leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/jashandhillon90/Leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0707-design-linked-list) |
 ## Queue
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jashandhillon90/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jashandhillon90/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/jashandhillon90/Leetcode/tree/master/0622-design-circular-queue) |
 ## Bit Manipulation
 |  |
 | ------- |
