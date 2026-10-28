@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/jashandhillon90/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0707-design-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/jashandhillon90/Leetcode/tree/master/0817-linked-list-components) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jashandhillon90/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/jashandhillon90/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/jashandhillon90/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jashandhillon90/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/jashandhillon90/Leetcode/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
