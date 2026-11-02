@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/jashandhillon90/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/jashandhillon90/Leetcode/tree/master/0179-largest-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jashandhillon90/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0622-design-circular-queue](https://github.com/jashandhillon90/Leetcode/tree/master/0622-design-circular-queue) |
 | [0654-maximum-binary-tree](https://github.com/jashandhillon90/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0706-design-hashmap](https://github.com/jashandhillon90/Leetcode/tree/master/0706-design-hashmap) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/jashandhillon90/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jashandhillon90/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/jashandhillon90/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/jashandhillon90/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jashandhillon90/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/jashandhillon90/Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/jashandhillon90/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/jashandhillon90/Leetcode/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jashandhillon90/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jashandhillon90/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jashandhillon90/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jashandhillon90/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
