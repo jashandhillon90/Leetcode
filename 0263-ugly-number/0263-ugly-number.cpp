@@ -10,7 +10,7 @@ public:
      }   
      while(n%5==0){
         n/=5;
-     }   
+     }   //tc o(n)and sc o(1)
      return n==1;
     }
 };
