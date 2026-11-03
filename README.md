@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/jashandhillon90/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/jashandhillon90/Leetcode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/jashandhillon90/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0263-ugly-number](https://github.com/jashandhillon90/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/jashandhillon90/Leetcode/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/jashandhillon90/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jashandhillon90/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
